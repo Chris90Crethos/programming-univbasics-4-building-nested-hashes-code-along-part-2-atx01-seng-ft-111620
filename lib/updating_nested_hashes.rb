@@ -66,7 +66,7 @@ def add_characters
 
 
 
-
+end 
 
 
    # After your code, the following line will return the altered hash
